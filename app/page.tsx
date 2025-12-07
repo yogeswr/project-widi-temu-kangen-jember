@@ -10,7 +10,7 @@ interface LinkItem {
 
 export default function Home() {
   const links: LinkItem[] = [
-    { name: "Merchandise", url: "https://forms.gle/ULNB8kwCxhzqWx9AA", icon: <FaTshirt /> },
+    { name: "Merchandise", url: "https://forms.gle/DrPePa2sEgrrbzUf7", icon: <FaTshirt /> },
   ];
 
   return (
